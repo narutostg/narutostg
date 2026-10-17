@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Naruto Sitanggang</h1>
 
 <p><strong>Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS)</strong><br>
-Software Engineering · Backend · Full-Stack Web Development<br>
+Software Engineering · DevOps <br>
 Surabaya, Indonesia</p>
 
 ## 🚀 About Me
